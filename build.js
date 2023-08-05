@@ -52,6 +52,9 @@ function buildDocs() {
     return `<div class="example">
       ${inline}
       <details>
+      return `<div class="example">
+      ${inline}
+      <details>
         <summary>Show code</summary>
         <pre><code>${escaped}</code></pre>
       </details>
