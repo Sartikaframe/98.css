@@ -38,7 +38,7 @@ The easiest way to use 98.css is to import it from [unpkg](https://unpkg.com/).
 </body>
 </html>
 ```
-
+2023/08/13
 Alternatively, you can grab 98.css for [the releases page](https://github.com/jdan/98.css/releases) or [npm](https://www.npmjs.com/package/98.css).
 
 ```
