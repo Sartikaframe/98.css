@@ -15,11 +15,6 @@ Be sure to check out [XP.css](https://botoxparty.github.io/XP.css/) and [7.css](
 
 The easiest way to use 98.css is to import it from [unpkg](https://unpkg.com/).
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-
   <div class="window" style="margin: 32px; width: 250px">
     <div class="title-bar">
       <div class="title-bar-text">
